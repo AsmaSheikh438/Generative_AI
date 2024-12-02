@@ -1,5 +1,9 @@
 # Generative_AI
 
+<img align="right" alt="coding" width="500" src="https://insidebigdata.com/wp-content/uploads/2023/06/GenerativeAI_shutterstock_2313909647_special-1024x512.jpg">
+
+
+
 ### All Readings
 ### Introduction to Generative AI
 #### Kindly note that the 30 minutes indicated on the pla orm considers the time that it may take you to browse through the reading resources provided. The total time required
